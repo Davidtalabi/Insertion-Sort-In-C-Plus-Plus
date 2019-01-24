@@ -1,3 +1,5 @@
+//INSERTION SORT IN C++ CREATED BY DAVID TALABI ON 1-24-2019
+
 #include <iostream>
 using namespace std;
 
